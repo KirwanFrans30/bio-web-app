@@ -25,7 +25,13 @@ a {
 }
 
 h1 { color: lightgoldenrodyellow;
+}
+     
+h2 { color : aliceblue;
+    
 
+}
+h4 { color : lightblue;
 }
 #my-heading {
   color: yellow;
@@ -39,6 +45,9 @@ h1 { color: lightgoldenrodyellow;
 }
 .red-font {
   color: red;
+}
+.lighblue-font {
+  color: lightblue;
 }
 .btn {
   display : block;
